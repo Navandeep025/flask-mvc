@@ -9,7 +9,7 @@ from setuptools import Command
 from setuptools.command.test import test as TestCommand
 from datetime import datetime
 
-NAME = 'python-boilerplate'
+NAME = 'flask-mvc'
 VERSION = '0.1'
 AUTHOR = 'Keath Milligan'
 REQUIRED_PYTHON_VERSION = (2, 7)
